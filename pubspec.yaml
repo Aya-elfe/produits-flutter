@@ -1,0 +1,29 @@
+name: produits
+description: "A new Flutter project."
+
+# Prevents accidental publication to pub.dev
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_slidable: ^3.1.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  assets:
+    - assets/OIP.jpg
+    - assets/1.jpg
+    - assets/3.jpg
+    
+  uses-material-design: true
