@@ -10,9 +10,9 @@ class ProduitsList extends StatefulWidget {
 
 class _ProduitsListState extends State<ProduitsList> {
   List<Produit> produits = [
-    Produit('Produit 1', 'Description 1', 10.0, 'assets/OIP.jpg'),
-    Produit('Produit 2', 'Description 2', 20.0, 'assets/1.jpg'),
-    Produit('Produit 3', 'Description 3', 30.0, 'assets/3.jpg'),
+    Produit('Produit 1', 'Description 1', 10.0, 'assets/m.jpg'),
+    Produit('Produit 2', 'Description 2', 20.0, 'assets/mant.jpg'),
+    Produit('Produit 3', 'Description 3', 30.0, 'assets/man.jpg'),
   ];
   
   List<bool> selectionne = [false, false, false];

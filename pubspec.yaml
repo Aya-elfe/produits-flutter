@@ -22,8 +22,8 @@ dev_dependencies:
 
 flutter:
   assets:
-    - assets/OIP.jpg
-    - assets/1.jpg
-    - assets/3.jpg
+    - assets/m.jpg
+    - assets/mant.jpg
+    - assets/man.jpg
     
   uses-material-design: true
